@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=ZMB90X-hGlM&list=PLNMnAEqLBwmqSbCf-tAvP06JDRB_arC7K&index=2&ab_channel=HabluProgrammer
+
+
+1. Create a file
+2. Open file in any code.
+3. To be write html syntax
+4. Will be taken dummy text
+5. To be open browser
+6. To use cursor.js library
+7. Kursor.js CDN
+8. Kursor.css CDN
+9. Use it  <script>
+        new kursor({
+            type: 1
+        })
+    </script>
